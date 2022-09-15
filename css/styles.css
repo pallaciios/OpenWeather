@@ -58,7 +58,7 @@ body {
 }
 
 /* clima */
-#weather-data, #error-message, #loader {
+#weather-data, #error-message, #loader, #error-geo {
     border-top: 1px solid #fff;
     margin-top: 1.5rem;
     padding-top: 1.5rem;
